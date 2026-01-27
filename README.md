@@ -142,9 +142,9 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 - 🔧 [Demystifying BDD: Cucumber in a Nutshell](https://jacob-portfolio-nu.vercel.app/blog/bdd-cucumber) <!-- Placeholder link -->
 - ☁️ [Strategies for Effective Regression Testing in Agile Teams](https://jacob-portfolio-nu.vercel.app/blog/regression-testing) <!-- Placeholder link -->
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 <!-- TODO: Update with your current year goals -->
-- 🚀 Contribute to at least 5 open source QA-related projects
+- 🚀 Contribute to at least 4 open source QA-related projects
 - 📚 Deepen expertise in performance testing tools like JMeter
 - 🌟 Expand knowledge in CI/CD pipelines for automated testing
 - 📝 Share insights on test automation through regular blog posts
