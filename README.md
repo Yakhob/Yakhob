@@ -123,9 +123,6 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobkurian2004@gmail.com) <!-- TODO: Add your email -->
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://jacob-portfolio-nu.vercel.app/) <!-- Using portfolio as blog link if dedicated blog isn't available -->
 
-### 📱 Social Presence
-[![GitHub followers](https://img.shields.io/github/followers/Yakhob?style=social)](https://github.com/Yakhob)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER) <!-- TODO: Add your Twitter handle -->
 
 </div>
 
