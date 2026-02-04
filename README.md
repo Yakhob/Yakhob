@@ -31,6 +31,9 @@ My toolkit is built around ensuring quality and efficiency in the development pr
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+###  Automation 
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 ###  Frameworks 🚀
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,6 +54,8 @@ My toolkit is built around ensuring quality and efficiency in the development pr
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7A00?style=for-the-badge&logo=browserstack&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-0D101E?style=for-the-badge&logo=replit&logoColor=white)
+
 
 ### 🗄️ Databases (Interaction & Testing)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
