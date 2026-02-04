@@ -33,8 +33,6 @@ My toolkit is built around ensuring quality and efficiency in the development pr
 
 ###  AI / Automation Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-0D101E?style=for-the-badge&logo=replit&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ###  Frameworks 🚀
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
