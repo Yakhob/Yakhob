@@ -46,6 +46,8 @@ My toolkit is built around ensuring quality and efficiency in the development pr
 ![RestAssured](https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=apache&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-CC0000?style=for-the-badge&logo=testng&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
 
 ###  Tools & Platforms
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
