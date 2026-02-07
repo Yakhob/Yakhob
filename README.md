@@ -1,6 +1,6 @@
 # Hi there! 👾 I'm Yakhob
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Quality+Assurance+Specialist;Test+Automation+Engineer;Web+Application+Tester;API+Testing+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Quality+Assurance+Specialist;Test+Automation+Engineer;Full-Stack-Developer)](https://git.io/typing-svg)
 
 ---
 
