@@ -143,9 +143,12 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
-- 📜 **ISTQB Certified Tester** (Foundational Level)
+- **ISTQB Certified Tester** (Foundational Level)
 - 🏆 **Oracle Certified Associate**, Java Programmer
-- 🥇 Completed **Udemy Masterclass: Java SDET Automation Testing**
+- Completed **Udemy Masterclass: Java SDET Automation Testing**
+- **MDN Frontend Developer Path** — Focusing on modern web standards and responsive design
+- 
+- 
 
 ## 📝 Latest Blog Posts
 <!-- TODO: Add your recent blog posts -->
@@ -155,10 +158,10 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 ## 🎯 2026 Goals
 <!-- TODO: Update with your current year goals -->
-- 🚀 Contribute to at least 4 open source QA-related projects
-- 📚 Deepen expertise in performance testing tools like JMeter
-- 🌟 Expand knowledge in CI/CD pipelines for automated testing
-- 📝 Share insights on test automation through regular blog posts
+-  Contribute to at least 4 open source QA-related projects
+-  Deepen expertise in performance testing tools like JMeter,Playwright
+-  Expand knowledge in CI/CD pipelines for automated testing
+-  Share insights on test automation through regular blog posts
 
 ---
 
@@ -185,7 +188,7 @@ If you found my projects helpful or learned something from my code, consider sup
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yakhob&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ### 🚀 "Quality is not an act, it is a habit." - Aristotle
+  ###  "Quality is not an act, it is a habit." - **Aristotle**
 
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
