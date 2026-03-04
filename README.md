@@ -87,14 +87,14 @@ My toolkit is built around ensuring quality and efficiency in the development pr
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section -->
-- ⚙️ Workflow `build` run [success](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework/actions/runs/9892305537) (13 hours ago)
-- 🗣️ Commented on [#1](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework/pull/1#issuecomment-2244222045) in [Yakhob/Java-Selenium-Cucumber-Automation-Framework](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework) (1 day ago)
-- 💪 Opened pull request [#1](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework/pull/1) in [Yakhob/Java-Selenium-Cucumber-Automation-Framework](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework) (1 day ago)
-- 🚀 Created repository [Yakhob/Portfolio](https://github.com/Yakhob/Portfolio) (2 days ago)
-- 🚀 Created repository [Yakhob/Java-Selenium-Cucumber-Automation-Framework](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework) (2 days ago)
+-  Workflow `build` run [success](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework/actions/runs/9892305537) (13 hours ago)
+-  Commented on [#1](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework/pull/1#issuecomment-2244222045) in [Yakhob/Java-Selenium-Cucumber-Automation-Framework](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework) (1 day ago)
+-  Opened pull request [#1](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework/pull/1) in [Yakhob/Java-Selenium-Cucumber-Automation-Framework](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework) (1 day ago)
+-  Created repository [Yakhob/Portfolio](https://github.com/Yakhob/Portfolio) (2 days ago)
+-  Created repository [Yakhob/Java-Selenium-Cucumber-Automation-Framework](https://github.com/Yakhob/Java-Selenium-Cucumber-Automation-Framework) (2 days ago)
 <!--END_SECTION:activity-->
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
 Here are a few projects that highlight my skills and passion for quality assurance and software development:
 
