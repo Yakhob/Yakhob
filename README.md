@@ -147,8 +147,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 - 🏆 **Oracle Certified Associate**, Java Programmer
 - Completed **Udemy Masterclass: Java SDET Automation Testing**
 - **MDN Frontend Developer Path** — Focusing on modern web standards and responsive design
-- 
-- 
+  
 
 ## 📝 Latest Blog Posts
 <!-- TODO: Add your recent blog posts -->
