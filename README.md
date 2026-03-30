@@ -1,10 +1,10 @@
-# Hi there! 👾 I'm Yakhob
+# Hi  I'm Yakhob
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Quality+Assurance+Specialist;Test+Automation+Engineer;Full-Stack-Developer)](https://git.io/typing-svg)
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm a passionate Quality Assurance Specialist with a keen eye for detail and a strong focus on delivering robust, high-quality software. My expertise lies in hands-on testing of web applications and API-driven systems, ensuring functional accuracy, stability, and an exceptional user experience. I thrive on identifying critical issues, optimizing test processes, and building reliable automation frameworks that contribute to seamless development cycles.
 
@@ -40,7 +40,7 @@ My toolkit is built around ensuring quality and efficiency in the development pr
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
-### 🚀 Testing & Automation Frameworks
+### Testing & Automation Frameworks
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-2B6B40?style=for-the-badge&logo=cucumber&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=apache&logoColor=white)
